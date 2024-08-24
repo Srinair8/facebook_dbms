@@ -2,13 +2,9 @@ Social Media Website is one of the leading ways of communication that takes plac
 so on. People get to know people around the world through these social networking websites. Social Media Networking means a group of people come together to know each other through the facility of the internet. The social networking website project helps to share videos, images, stories, and a lot of things. The system would provide a basic set of features to add/update members, add/update posts, and manage check-in specifications for the systems based on the user’s statement of need. Social Media Networking System is a typical Management Information System (MIS), its development includes the establishment and maintenance of back-end development and front-end application development aspects. For the former requirement, the establishment of data consistency and integrity of the strong data security and good networking site. The latter requires the application fully functional, easy to use, and so on. 
 The aim is to bring people closer, keep updated about yourself and follow up with friends and other people well organized globe. 
 The features that can be included in this project are as follows: 
-• Sharing of videos, images: Through this project, the people will be able to share the 
-images, videos among a group of people. 
-• Database management of the people: The people who are part of the groups or the social 
-networking website application, their information needs to be stored in a well-organized 
-manner. 
-• Knowledge can be gained: Through this application, it is also possible to share the 
-knowledge- based articles which result in knowledge gain. 
+• Sharing of videos, images: Through this project, the people will be able to share the images, videos among a group of people. 
+• Database management of the people: The people who are part of the groups or the social networking website application, their information needs to be stored in a well-organized manner. 
+• Knowledge can be gained: Through this application, it is also possible to share the knowledge- based articles which result in knowledge gain. 
 
 SYSTEM REQUIREMENTS SPECIFICATIONS
 2.1 HARDWARE REQUIREMENTS
@@ -21,8 +17,7 @@ Hard Disk: Min 40GB storage
 System type: 64-bit Operating System, x64based processor
 
 2.2 SOFTWARE REQUIREMENTS
-A major element in building a system is the section of compatible software since the software in the market is experiencing in geometric progression. Selected software should be acceptable by the firm and one user as well as it should be feasible for the system. This document gives a detailed description of the software requirement specification. The study of requirement specification is 
-focused specially on the functioning of the system. It allows the developer or analyst to understand the system, function to be carried out the performance level to be obtained and corresponding interfaces to be established.
+A major element in building a system is the section of compatible software since the software in the market is experiencing in geometric progression. Selected software should be acceptable by the firm and one user as well as it should be feasible for the system. This document gives a detailed description of the software requirement specification. The study of requirement specification is focused specially on the functioning of the system. It allows the developer or analyst to understand the system, function to be carried out the performance level to be obtained and corresponding interfaces to be established.
 
 Front End : PHP (Hypertext Preprocessor), HTML, CSS
 Back End : WAMPP server, MYSQL
@@ -31,8 +26,7 @@ IDE : Visual Studio Code
 
 SYSTEM IMPLEMENTATION
 a) CREATE A CONNECTION TO DATABASE
-Before you can access data in a database, you must create a connection 
-to the database. In PHP, this is done with the get connection( ) function.
+Before you can access data in a database, you must create a connection to the database. In PHP, this is done with the get connection( ) function.
 <?php
 $con = mysqli_connect('localhost','root','','facebook');
 ?>
